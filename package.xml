@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>xerces_catkin</name>
+  <version>0.0.1</version>
+  <description>xerces_catkin</description>
+
+  <maintainer email="abel.gawel@mavt.ethz.ch">Abel Gawel</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>
+
